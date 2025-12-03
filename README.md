@@ -44,7 +44,7 @@ A **React + TypeScript** web application that fetches characters from the [Rick 
 git clone https://github.com/AyshaVolidis/RockMortyApi-App.git
 
 # Navigate to project
-cd rick-and-morty-app
+cd RockMortyApi-App
 
 # Install dependencies
 npm install
