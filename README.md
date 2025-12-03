@@ -1,6 +1,7 @@
 # Rick & Morty Characters App
 
 A **React + TypeScript** web application that fetches characters from the [Rick and Morty API](https://rickandmortyapi.com/documentation/). Built with **clean architecture, proper state management, and TanStack Query** for data fetching.
+<img width="1365" height="633" alt="image" src="https://github.com/user-attachments/assets/f2b1eb1d-5dde-4d7d-89a3-96cbd56d00e4" />
 
 ---
 
