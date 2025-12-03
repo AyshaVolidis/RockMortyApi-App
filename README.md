@@ -33,7 +33,7 @@ A **React + TypeScript** web application that fetches characters from the [Rick 
 - **TypeScript**  
 - **TanStack Query (React Query)**  
 - **CSS-in-JS** for inline styling  
-- **React Router v6** for navigation  
+- **React Router v7** for navigation  
 
 ---
 
